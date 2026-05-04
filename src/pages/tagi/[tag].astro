@@ -1,0 +1,28 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../components/Layout.astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import { allTags, recipesWithTag } from "../../lib/recipes";
+
+export async function getStaticPaths() {
+  const recipes = await getCollection("recipes");
+
+  return allTags(recipes).map(([tag]) => ({
+    params: { tag },
+    props: { tag, recipes: recipesWithTag(recipes, tag) },
+  }));
+}
+
+const { tag, recipes } = Astro.props;
+---
+
+<Layout title={`Tag: ${tag} | Przepisy`} description={`Przepisy z tagiem ${tag}.`}>
+  <section class="intro compact">
+    <p class="eyebrow">Tag</p>
+    <h1>Przepisy z tagiem: {tag}</h1>
+  </section>
+
+  <div class="recipe-grid">
+    {recipes.map((recipe) => <RecipeCard recipe={recipe} />)}
+  </div>
+</Layout>

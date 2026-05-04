@@ -1,0 +1,22 @@
+---
+import TagList from "./TagList.astro";
+import { recipeImage, recipeTags, recipeUrl } from "../lib/recipes";
+import { sitePath } from "../lib/urls";
+
+const { recipe } = Astro.props;
+const tags = recipeTags(recipe);
+const image = recipeImage(recipe);
+const href = recipeUrl(recipe);
+const meta = [recipe.data.prepTime, recipe.data.cookTime].filter(Boolean).join(" + ");
+---
+
+<article class="recipe-card">
+  <a class="card-image-link" href={href} aria-label={`Otwórz przepis: ${recipe.data.title}`}>
+    <img src={image} alt="" loading="lazy" onerror={`this.src='${sitePath("images/placeholder.jpg")}'`} />
+  </a>
+  <div class="card-body">
+    <h2><a href={href}>{recipe.data.title}</a></h2>
+    {meta && <p class="recipe-meta">{meta}</p>}
+    <TagList tags={tags} />
+  </div>
+</article>

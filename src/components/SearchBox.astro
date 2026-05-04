@@ -1,0 +1,31 @@
+---
+import { sitePath } from "../lib/urls";
+---
+
+<div class="search" data-pagefind-ignore>
+  <link href={sitePath("pagefind/pagefind-ui.css")} rel="stylesheet" />
+  <div id="search"></div>
+</div>
+
+<script src={sitePath("pagefind/pagefind-ui.js")} is:inline></script>
+<script is:inline>
+  window.addEventListener("DOMContentLoaded", () => {
+    if (!window.PagefindUI) return;
+
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: true,
+      translations: {
+        placeholder: "Szukaj przepisu...",
+        clear_search: "Wyczyść",
+        load_more: "Pokaż więcej wyników",
+        search_label: "Szukaj na stronie",
+        filters_label: "Filtry",
+        zero_results: "Nie znaleziono wyników dla [SEARCH_TERM]",
+        many_results: "Znaleziono [COUNT] wyników dla [SEARCH_TERM]",
+        one_result: "Znaleziono 1 wynik dla [SEARCH_TERM]",
+      },
+    });
+  });
+</script>

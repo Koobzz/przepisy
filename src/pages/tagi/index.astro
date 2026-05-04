@@ -1,0 +1,26 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../components/Layout.astro";
+import { allTags } from "../../lib/recipes";
+import { sitePath } from "../../lib/urls";
+
+const tags = allTags(await getCollection("recipes"));
+---
+
+<Layout title="Tagi | Przepisy" description="Lista tagów z przepisami.">
+  <section class="intro compact">
+    <p class="eyebrow">Indeks</p>
+    <h1>Tagi</h1>
+  </section>
+
+  <ul class="tag-index">
+    {tags.map(([tag, count]) => (
+      <li>
+        <a href={sitePath(`tagi/${encodeURIComponent(tag)}/`)}>
+          <span>{tag}</span>
+          <strong>{count}</strong>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Layout>

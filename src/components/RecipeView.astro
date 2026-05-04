@@ -1,0 +1,41 @@
+---
+import TagList from "./TagList.astro";
+import { recipeImage, recipeTags } from "../lib/recipes";
+import { sitePath } from "../lib/urls";
+
+const { recipe, Content } = Astro.props;
+const image = recipeImage(recipe);
+const tags = recipeTags(recipe);
+const details = [
+  recipe.data.servings && `Porcje: ${recipe.data.servings}`,
+  recipe.data.prepTime && `Przygotowanie: ${recipe.data.prepTime}`,
+  recipe.data.cookTime && `Gotowanie: ${recipe.data.cookTime}`,
+].filter(Boolean);
+---
+
+<article class="recipe-page" data-pagefind-body>
+  <header class="recipe-hero">
+    <p class="eyebrow">Przepis</p>
+    <h1>{recipe.data.title}</h1>
+    {details.length > 0 && (
+      <dl class="detail-list">
+        {details.map((detail: string) => {
+          const [label, value] = detail.split(": ");
+          return (
+            <div class="detail-item">
+              <dt>{label}</dt>
+              <dd>{value}</dd>
+            </div>
+          );
+        })}
+      </dl>
+    )}
+    <TagList tags={tags} />
+  </header>
+
+  <img class="recipe-image" src={image} alt="" onerror={`this.src='${sitePath("images/placeholder.jpg")}'`} />
+
+  <section class="recipe-content">
+    <Content />
+  </section>
+</article>

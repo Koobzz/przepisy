@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 astro build && pagefind --site dist",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview"
+  },
+  "devDependencies": {
+    "astro": "^6.0.5",
+    "node": "^22.22.2",
+    "pagefind": "^1.5.2"
+  }
+}

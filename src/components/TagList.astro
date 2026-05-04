@@ -1,0 +1,19 @@
+---
+import { sitePath } from "../lib/urls";
+
+const { tags = [] } = Astro.props;
+---
+
+{
+  tags.length > 0 && (
+    <ul class="tag-list" aria-label="Tagi">
+      {tags.map((tag: string) => (
+        <li>
+          <a class="tag" href={sitePath(`tagi/${encodeURIComponent(tag)}/`)}>
+            {tag}
+          </a>
+        </li>
+      ))}
+    </ul>
+  )
+}

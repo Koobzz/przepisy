@@ -1,0 +1,36 @@
+---
+import "../styles/global.css";
+import { sitePath } from "../lib/urls";
+
+const {
+  title = "Przepisy",
+  description = "Domowa kolekcja sprawdzonych przepisów.",
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav container" aria-label="Główne">
+        <a class="brand" href={sitePath()}>Przepisy</a>
+        <div class="nav-links">
+          <a href={sitePath()}>Strona główna</a>
+          <a href={sitePath("tagi/")}>Tagi</a>
+        </div>
+      </nav>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer container">
+      <p>Prosta kolekcja przepisów w plikach Markdown.</p>
+    </footer>
+  </body>
+</html>

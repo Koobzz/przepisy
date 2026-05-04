@@ -10,11 +10,9 @@ cookTime: "30 min"
 
 ## Składniki
 
-250 g mielonej karkówki lub biodrówki wieprzowej
-
-800 g ziemniaków - ważone przed obraniem
-
-przyprawy: łyżeczka soli i pieprzu, łyżka ziół prowansalskich i mąki ziemniaczanej
+- 250 g mielonej karkówki lub biodrówki wieprzowej
+- 800 g ziemniaków - ważone przed obraniem
+- przyprawy: łyżeczka soli i pieprzu, łyżka ziół prowansalskich i mąki ziemniaczanej
 
 ## Przygotowanie
 

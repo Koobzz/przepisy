@@ -1,7 +1,7 @@
 ---
 title: "Ryż na słodko z rodzynkami"
 slug: "ryz-na-slodko-z-rodzynkami"
-tags: ["deser", "ryż", "łatwe"]
+tags: ["deser", "ryż", "łatwe", "wegańskie", "wegetariańskie"]
 image: "/images/ryz-na-slodko-z-rodzynkami.jpg"
 servings: "4 porcje"
 prepTime: "5 min"

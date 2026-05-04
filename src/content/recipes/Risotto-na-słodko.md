@@ -10,14 +10,14 @@ cookTime: "20 min"
 
 ## Składniki
 
-1 szklanka ryżu do risotto - 250 g
-2 łyżki masła
-1 szklanka mleka
-pół szklanki wody
-pół szklanki śmietanki 30 % - 150 g
-2 szklanki borówek - 360 g
-łyżeczka cynamonu
-łyżka miodu
+- 1 szklanka ryżu do risotto - 250 g
+- 2 łyżki masła
+- 1 szklanka mleka
+- pół szklanki wody
+- pół szklanki śmietanki 30 % - 150 g
+- 2 szklanki borówek - 360 g
+- łyżeczka cynamonu
+- łyżka miodu
 
 ## Przygotowanie
 

@@ -1,7 +1,7 @@
 ---
 title: "Pesto czerwone"
 slug: "pesto-czerwone"
-tags: ["sos", "pomidory", "łatwe", "wegetariańskie"]
+tags: ["sos", "łatwe", "wegetariańskie"]
 image: "/images/pesto-czerwone.jpg"
 servings: "1 słoik"
 prepTime: "10 min"

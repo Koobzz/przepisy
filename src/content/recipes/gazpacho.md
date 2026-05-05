@@ -1,7 +1,7 @@
 ---
 title: "Gazpacho"
 slug: "gazpacho"
-tags: ["zupa", "pomidory", "kuchnia hiszpańska", "łatwe", "wegańskie", "wegetariańskie"]
+tags: ["zupa", "kuchnia hiszpańska", "łatwe", "wegańskie", "wegetariańskie"]
 image: "/images/gazpacho.jpg"
 servings: "4 porcje"
 prepTime: "15 min"

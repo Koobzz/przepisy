@@ -1,7 +1,7 @@
 ---
 title: "Pierogi z jagodami lub borówkami"
 slug: "pierogi-z-jagodami-lub-borowkami"
-tags: ["deser", "pierogi", "owoce", "wegetariańskie"]
+tags: ["deser", "wegetariańskie"]
 image: "/images/pierogi-z-jagodami-lub-borowkami.jpg"
 servings: "4 porcje"
 prepTime: "1 godz."

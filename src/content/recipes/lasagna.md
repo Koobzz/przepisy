@@ -1,7 +1,7 @@
 ---
 title: "Lasagna"
 slug: "lasagna"
-tags: ["makaron", "mięso mielone", "obiad", "zapiekanka", "kuchnia włoska"]
+tags: ["makaron", "obiad", "piekarnik", "kuchnia włoska"]
 image: "/images/lasagna.jpg"
 servings: "6 porcji"
 prepTime: "40 min"

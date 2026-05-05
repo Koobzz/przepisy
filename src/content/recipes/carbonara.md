@@ -1,7 +1,7 @@
 ---
 title: "Carbonara"
 slug: "carbonara"
-tags: ["makaron", "boczek", "obiad", "łatwe"]
+tags: ["makaron", "obiad", "łatwe"]
 image: "/images/carbonara.jpg"
 servings: "2 porcje"
 prepTime: "10 min"

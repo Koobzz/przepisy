@@ -1,7 +1,7 @@
 ---
 title: "Purée ziemniaczane"
 slug: "puree-ziemniaczane"
-tags: ["ziemniaki", "dodatek", "łatwe", "wegetariańskie"]
+tags: ["łatwe", "wegetariańskie"]
 image: "/images/puree-ziemniaczane.jpg"
 servings: "4 porcje"
 prepTime: "15 min"

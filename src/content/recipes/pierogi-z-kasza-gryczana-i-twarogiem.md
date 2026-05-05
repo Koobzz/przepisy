@@ -1,7 +1,7 @@
 ---
 title: "Pierogi z kaszą gryczaną i twarogiem"
 slug: "pierogi-z-kasza-gryczana-i-twarogiem"
-tags: ["obiad", "pierogi", "wegetariańskie"]
+tags: ["obiad", "wegetariańskie"]
 image: "/images/pierogi-z-kasza-gryczana-i-twarogiem.jpg"
 servings: "4 porcje"
 prepTime: "45 min"

@@ -1,7 +1,7 @@
 ---
 title: "Przystawka z marchewek"
 slug: "przystawka-z-marchewek"
-tags: ["przystawka", "warzywa", "łatwe", "wegańskie", "wegetariańskie"]
+tags: ["łatwe", "wegańskie", "wegetariańskie"]
 image: "/images/przystawka-z-marchewek.jpg"
 servings: "4 porcje"
 prepTime: "15 min"

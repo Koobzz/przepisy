@@ -1,7 +1,7 @@
 ---
 title: "Przystawka z ziemniaków"
 slug: "przystawka-z-ziemniakow"
-tags: ["przystawka", "ziemniaki", "łatwe", "wegetariańskie"]
+tags: ["łatwe", "wegetariańskie"]
 image: "/images/przystawka-z-ziemniakow.jpg"
 servings: "4 porcje"
 prepTime: "10 min"

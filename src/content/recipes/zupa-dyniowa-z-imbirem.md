@@ -1,7 +1,7 @@
 ---
 title: "Zupa dyniowa z imbirem"
 slug: "zupa-dyniowa-z-imbirem"
-tags: ["zupa", "dynia", "łatwe", "wegańskie", "wegetariańskie"]
+tags: ["zupa", "łatwe", "wegańskie", "wegetariańskie"]
 image: "/images/zupa-dyniowa-z-imbirem.jpg"
 servings: "4 porcje"
 prepTime: "15 min"

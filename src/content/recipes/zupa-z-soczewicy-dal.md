@@ -1,7 +1,7 @@
 ---
 title: "Zupa z soczewicy dal"
 slug: "zupa-z-soczewicy-dal"
-tags: ["zupa", "soczewica", "kuchnia indyjska", "obiad", "wegańskie", "wegetariańskie"]
+tags: ["zupa", "kuchnia indyjska", "obiad", "wegańskie", "wegetariańskie"]
 image: "/images/zupa-z-soczewicy-dal.jpg"
 servings: "4 porcje"
 prepTime: "15 min"

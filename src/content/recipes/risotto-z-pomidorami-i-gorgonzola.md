@@ -1,7 +1,7 @@
 ---
 title: "Risotto z pomidorami i gorgonzolą"
 slug: "risotto-z-pomidorami-i-gorgonzola"
-tags: ["obiad", "ryż", "wegetariańskie", "kuchnia włoska"]
+tags: ["obiad", "wegetariańskie", "kuchnia włoska"]
 image: "/images/risotto-z-pomidorami-i-gorgonzola.jpg"
 servings: "2 porcje"
 prepTime: "10 min"

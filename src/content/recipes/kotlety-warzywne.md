@@ -1,7 +1,7 @@
 ---
 title: "Kotlety warzywne"
 slug: "kotlety-warzywne"
-tags: ["obiad", "warzywa", "łatwe", "wegetariańskie"]
+tags: ["obiad", "łatwe", "wegetariańskie"]
 image: "/images/kotlety-warzywne.jpg"
 servings: "4 porcje"
 prepTime: "15 min"

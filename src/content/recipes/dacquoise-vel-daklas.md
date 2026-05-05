@@ -1,7 +1,7 @@
 ---
 title: "Dacquoise vel dakłas"
 slug: "dacquoise-vel-daklas"
-tags: ["deser", "tort", "beza", "kawa", "wegetariańskie"]
+tags: ["deser", "tort", "wegetariańskie"]
 image: "/images/dacquoise-vel-daklas.jpg"
 servings: "8 porcji"
 prepTime: "20 min"

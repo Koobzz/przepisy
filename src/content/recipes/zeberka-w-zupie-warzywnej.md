@@ -1,7 +1,7 @@
 ---
 title: "Żeberka w zupie warzywnej"
 slug: "zeberka-w-zupie-warzywnej"
-tags: ["wieprzowina", "zupa", "obiad"]
+tags: ["zupa", "obiad"]
 image: "/images/zeberka-w-zupie-warzywnej.jpg"
 servings: "4 porcje"
 prepTime: "20 min"

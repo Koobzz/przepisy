@@ -1,7 +1,7 @@
 ---
 title: "Zapiekanka ziemniaczana z kiełbasą"
 slug: "zapiekanka-ziemniaczana-z-kielbasa"
-tags: ["obiad", "zapiekanka", "ziemniaki", "łatwe"]
+tags: ["obiad", "piekarnik", "łatwe"]
 image: "/images/zapiekanka-ziemniaczana-z-kielbasa.jpg"
 servings: "4 porcje"
 prepTime: "20 min"

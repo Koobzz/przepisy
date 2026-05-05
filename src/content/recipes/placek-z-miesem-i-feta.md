@@ -2,7 +2,7 @@
 
 title: "Placek z mięsem i fetą"
 slug: "placek-z-miesem-i-feta"
-tags: ["obiad", "mięso", "ziemniaki", "zapiekanka"]
+tags: ["obiad", "mięsne", "piekarnik"]
 image: "/images/placek-z-miesem-i-feta.jpg"
 servings: "6 porcji"
 prepTime: "30 min"

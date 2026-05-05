@@ -1,7 +1,7 @@
 ---
 title: "Butter chicken"
 slug: "butter-chicken"
-tags: ["kurczak", "kuchnia indyjska", "obiad"]
+tags: ["kuchnia indyjska", "obiad"]
 image: "/images/butter-chicken.jpg"
 servings: "4 porcje"
 prepTime: "45 min"

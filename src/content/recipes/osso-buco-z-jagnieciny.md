@@ -1,7 +1,7 @@
 ---
 title: "Osso buco z jagnięciny"
 slug: "osso-buco-z-jagnieciny"
-tags: ["jagnięcina", "obiad", "kuchnia włoska"]
+tags: ["obiad", "kuchnia włoska"]
 image: "/images/osso-buco-z-jagnieciny.jpg"
 servings: "4 porcje"
 prepTime: "10 min"

@@ -1,7 +1,7 @@
 ---
 title: "Gulasz irlandzki"
 slug: "gulasz-irlandzki"
-tags: ["wołowina", "obiad", "kuchnia irlandzka"]
+tags: ["obiad", "kuchnia irlandzka"]
 image: "/images/gulasz-irlandzki.jpg"
 servings: "4 porcje"
 prepTime: "20 min"

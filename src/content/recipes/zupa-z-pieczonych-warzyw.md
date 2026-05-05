@@ -1,7 +1,7 @@
 ---
 title: "Zupa z pieczonych warzyw"
 slug: "zupa-z-pieczonych-warzyw"
-tags: ["zupa", "warzywa", "obiad", "łatwe"]
+tags: ["zupa", "obiad", "łatwe"]
 image: "/images/zupa-z-pieczonych-warzyw.jpg"
 servings: "4 porcje"
 prepTime: "15 min"

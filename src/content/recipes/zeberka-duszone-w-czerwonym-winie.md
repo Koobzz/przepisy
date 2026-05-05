@@ -1,7 +1,7 @@
 ---
 title: "Żeberka duszone w czerwonym winie"
 slug: "zeberka-duszone-w-czerwonym-winie"
-tags: ["wieprzowina", "obiad", "danie główne", "piekarnik"]
+tags: ["obiad", "piekarnik"]
 image: "/images/zeberka-duszone-w-czerwonym-winie.jpg"
 servings: "4 porcje"
 prepTime: "25 min"

@@ -1,7 +1,7 @@
 ---
 title: "Pommes boulangère"
 slug: "pommes-boulangere"
-tags: ["ziemniaki", "kuchnia francuska", "obiad", "wegetariańskie"]
+tags: ["kuchnia francuska", "obiad", "wegetariańskie"]
 image: "/images/pommes-boulangere.jpg"
 servings: "4 porcje"
 prepTime: "20 min"

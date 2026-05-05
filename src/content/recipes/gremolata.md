@@ -1,7 +1,7 @@
 ---
 title: "Gremolata"
 slug: "gremolata"
-tags: ["sos", "dodatek", "kuchnia włoska", "łatwe", "wegańskie", "wegetariańskie"]
+tags: ["sos", "kuchnia włoska", "łatwe", "wegańskie", "wegetariańskie"]
 image: "/images/gremolata.jpg"
 servings: "4 porcje"
 prepTime: "5 min"

@@ -1,7 +1,7 @@
 ---
 title: "Placek z mięsem"
 slug: "placek-z-miesem"
-tags: ["mięsne", "ziemniaki", "obiad"]
+tags: ["mięsne", "obiad"]
 image: "/images/placek-z-miesem.jpg"
 servings: "12 sztuk"
 prepTime: "30 min"

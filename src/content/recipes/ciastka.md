@@ -1,7 +1,7 @@
 ---
 title: "Ciastka"
 slug: "ciastka"
-tags: ["deser", "ciastka", "łatwe", "wegetariańskie"]
+tags: ["deser", "łatwe", "wegetariańskie"]
 image: "/images/ciastka.jpg"
 servings: "ok. 20 ciastek"
 prepTime: "1 godz. 15 min"

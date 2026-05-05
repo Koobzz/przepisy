@@ -1,7 +1,7 @@
 ---
 title: "Ciasto ucierane z jabłkami"
 slug: "ciasto-ucierane-z-jablkami"
-tags: ["deser", "ciasto", "jabłka", "łatwe", "wegetariańskie"]
+tags: ["deser", "ciasto", "łatwe", "wegetariańskie"]
 image: "/images/ciasto-ucierane-z-jablkami.jpg"
 servings: "1 keksówka"
 prepTime: "20 min"

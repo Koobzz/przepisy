@@ -1,7 +1,7 @@
 ---
 title: "Wegańskie batony energetyczne"
 slug: "weganskie-batony-energetyczne"
-tags: ["deser", "łatwe", "wegańskie", "wegetariańskie", "przekąska"]
+tags: ["deser", "łatwe", "wegańskie", "wegetariańskie"]
 image: "/images/weganskie-batony-energetyczne.jpg"
 servings: "12 batonów"
 prepTime: "20 min"

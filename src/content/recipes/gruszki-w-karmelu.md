@@ -1,7 +1,7 @@
 ---
 title: "Gruszki w karmelu"
 slug: "gruszki-w-karmelu"
-tags: ["deser", "owoce", "łatwe", "wegetariańskie"]
+tags: ["deser", "łatwe", "wegetariańskie"]
 image: "/images/gruszki-w-karmelu.jpg"
 servings: "4 porcje"
 prepTime: "10 min"
